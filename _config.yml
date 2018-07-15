@@ -127,7 +127,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "https://www.weibo.com/p/1005051631262987"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
@@ -258,7 +258,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  #_posts
   - scope:
       path: ""
       type: posts
