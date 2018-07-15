@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "zh-CN"
 title                    : "外接大脑"
 title_separator          : "-"
-name                     : "道 三"
+name                     : "道三"
 description              : "大脑思考，认知学习，思维模型"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "道 三"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "你不光要思考还需要外接大脑。你好，欢迎来到「外接大脑」，我是「道三」，这里是我大脑的外接硬盘。"
+  name             : "道三"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "你好，欢迎来到「外接大脑」，我是「道三」，这里是我学习的外接硬盘。"
   location         : "静安区，上海"
   email            :
   uri              :
