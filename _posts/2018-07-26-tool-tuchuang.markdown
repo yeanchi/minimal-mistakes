@@ -13,12 +13,15 @@ categories: "tool"
 
 下载地址：https://github.com/Molunerfinn/picgo/releases
 
-Windows系统直接点击exe文件下载就可以。
+Windows用户直接点击最新版本`exe`文件下载即可。
+Mac用户直接点击最新版本的`dmg`格式文件下载安装即可。
 
 ### 优点：
 
 - 网页上的图片右键复制之后，快捷键`Shift+Ctrl+P`或`右键软件浮窗小圆球的上传图片选项`即可上传好图片，并自动生成Markdown的图片链接格式。
 - 将本地图片拖向`浮窗小圆球`自动上传。
+
+![image](https://cdn.yan100.top/20180727000213.png)
 
 ### 个人想法
 
