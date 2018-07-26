@@ -1,6 +1,6 @@
 ---
 title:  "Markdown写作需要的免费图床上传工具"
-categories: "tool"
+categories: "tools"
 ---
 
 推荐一款开源免费图床上传工具，用于解决Markdown写作时的图片上传问题。
