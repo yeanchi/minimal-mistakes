@@ -4,9 +4,12 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://XX/minimal-mistakes/about/
+   - title: "工具流"
+     url: /categories/tool
    - title: "分类"
      url: /categories/
    - title: "标签"
      url: /tags/
+
   # - title: "Sitemap"
   #   url: /sitemap/
