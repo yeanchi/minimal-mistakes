@@ -1,7 +1,7 @@
 ---
 title:  "Markdown写作需要的免费图床上传工具"
 categories:
-- 工具流
+- tools
 tags:  
 - Markdown
 ---
