@@ -1,7 +1,7 @@
 ---
 title:  "一款简单好用的PC端科学上网工具"
 categories:
-- 工具流
+- tools
 tags:
 - 小插件
 ---
