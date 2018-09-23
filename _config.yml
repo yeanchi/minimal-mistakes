@@ -19,11 +19,11 @@ locale                   : "zh-CN"
 title                    : "外接大脑"
 title_separator          : "-"
 name                     : "道三"
-description              : "大脑思考，认知学习，思维模型"
+description              : "道三的个人博客，分享认知学习的过程"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/bio-photo.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "道三"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "欢迎来到「外接大脑」，我是「道三」，这里是我学习的外接硬盘。"
+  bio              : "我是「道三」，这是我的个人博客，这里分享我认知学习的过程。欢迎关注我的公众号「外接大脑」（ID:waijiedanao)。"
   location         : "静安区，上海"
-  email            :
+  email            : "yeanchi12@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -127,7 +127,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : "https://www.weibo.com/p/1005051631262987"
+  weibo            : #""
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
