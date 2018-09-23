@@ -86,9 +86,9 @@ og_image                 : /assets/images/bio-photo.jpg # Open Graph/Twitter def
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : 道三 # If the user or organization name differs from the site's name
+  links: https://yan100.top # An array of links to social media profiles
 
 # Analytics
 analytics:
