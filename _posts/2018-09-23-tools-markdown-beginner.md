@@ -1,5 +1,5 @@
 ---
-title:  "为什么要使用Markdown写作？"
+title: "为什么要使用Markdown写作？"
 categories:
 - tools
 tags:
