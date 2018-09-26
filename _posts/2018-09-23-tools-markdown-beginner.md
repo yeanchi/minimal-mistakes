@@ -51,6 +51,8 @@ Markdown 核心是写作更效率，它的学习成本极低，如果只是普�
 
 ## 接触几个基础语法
 
+学会三个简单的 Markdown 语法，你就可以写作了。首先是：
+
 **1.标题**
 
 标题前面加`#` 符号。
@@ -79,9 +81,15 @@ Markdown 核心是写作更效率，它的学习成本极低，如果只是普�
 
 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
 
-一款在线的 Markdown 编辑器，对于刚入门的朋友可以去看看，首页就有指导手册。
+一款在线的 Markdown 编辑器，首页就有指导手册，非常适合刚入门使用。
 
-首先学会三个简单的 Markdown 语法，你就可以写作了。首先是：
+如果对英文没有抵触的话，在线 Markdown 编辑器我还是推荐以下一款。
+
+[StackEdit – In-browser Markdown editor](https://stackedit.io/)
+
+![屏幕快照 2018-09-26 12.05.09](https://cdn.yan100.top/屏幕快照 2018-09-26 12.05.09.png)
+
+相当酷的一款在线文档，基本我想要的功能都有，UI界面也十分耐看。
 
 ## 02
 
@@ -89,13 +97,16 @@ Markdown 核心是写作更效率，它的学习成本极低，如果只是普�
 
 ![](https://cdn.yan100.top/15378529274551.jpg)
 
-Typora 简约优美，支持平台有 mac、windows、linux，而且是免费的。
+Typora 简约优美，作为写作工具再适合不过，支持平台有 mac、windows、linux，而且是免费的。
 
 ## 03
 
 [MWeb - 专业的Markdown写作、记笔记、静态博客生成软件 - MWeb](https://zh.mweb.im/)
 
-Mweb 支持 mac 和 ios ，是付费应用的，但是功能强大的没的说，强烈推荐。
+![屏幕快照mweb](https://cdn.yan100.top/屏幕快照 2018-09-26 11.56.34.png)
+
+Mweb 支持 mac 和 
+ios ，虽然是付费应用，但是功能强大的没的说，强烈推荐。
 
 
 # 结语
