@@ -14,7 +14,8 @@ tags:
 
 不管你想拥抱未来、还是对科学的探索、或是类似被《2001太空漫游》里面的超智慧电脑HAL 9000而触动，我都推荐大家来了解下这门学科。
 
-# 是什么加剧了人工智能近期优异的表现呢？
+
+# 为什么人工智能近些年表现如此优异呢？
 
 20世纪50年代到现在，人工智能经历两波低谷，如今却忽如一夜春风来。其中特定的因素有Internet的发展带来了大量数据以及GPU、CPU的芯片的发展带来的计算机计算速度提升。
 
@@ -68,7 +69,7 @@ tags:
 
 进入正题了，入门还是得推荐：
 
-Coursera上吴恩达的[机器学习 | Coursera](https://www.coursera.org/learn/machine-learning)课程，这是免费课程，如果想获得证书可以选择付费，有中文字幕。
+Coursera上斯坦福的[机器学习（Coursera）](https://www.coursera.org/learn/machine-learning)课程，讲师吴恩达，这是免费课程，如果想获得证书可以选择付费，有中文字幕。
 
 ![](https://cdn.yan100.top/15508356776963.jpg)
 
@@ -85,12 +86,13 @@ Coursera上吴恩达的[机器学习 | Coursera](https://www.coursera.org/learn/
 
 ## 4. 入门深度学习
 
-我依然推荐的是吴恩达的[深度学习 | Coursera](https://www.coursera.org/specializations/deep-learning)课程。这个课程是收费的，一个月49美元换算人民币大约是三百多元，前七天免费试听。网易云课堂有免费的课程，但是课后选择题、编程练习以及证书都没有。
+我依然推荐的是吴恩达的[深度学习（Coursera）](https://www.coursera.org/specializations/deep-learning)课程。这个课程是收费的，一个月49美元换算人民币大约是三百多元，前七天免费试听。网易云课堂有免费的课程，但是课后选择题、编程练习以及证书都没有。
 
 ![](https://cdn.yan100.top/15508358301827.jpg)
 
 
 这是网易云课堂地址，最后一章可能有几节课没字幕，可以来这看看：
+
 [深度学习工程师微专业 - 一线人工智能大师吴恩达亲研-网易云课堂 - 网易云课堂](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
 推荐买Coursera付费课程，付费的好处就不在这展开了。
@@ -98,7 +100,7 @@ Coursera上吴恩达的[机器学习 | Coursera](https://www.coursera.org/learn/
 
 ## 最后
 
-之后我还会推荐完成 Jeremy Howard 的深度学习课程（[Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)）。
+之后我还会推荐完成 Jeremy Howard 的深度学习课程（[Practical Deep Learning for Coders, v3（fast.ai course v3）](https://course.fast.ai/)）。
 
 简单来说，吴恩达是从基础原理教到教你简单的实现「神经网络」，而Jeremy 从上而下地直接实际操作，然后再深入细节，当然他的课程是免费的，对于已经有基础的朋友可以直接跳到这来学习。
 
