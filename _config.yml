@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "道三"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "我是「道三」，这是我的个人博客，这里分享我认知学习的过程。欢迎关注我的公众号「外接大脑」（ID:waijiedanao)。"
+  bio              : "我是「道三」，这是我的个人博客，这里分享我认知学习的过程。"
   location         : "静安区，上海"
   email            : "yeanchi12@gmail.com"
   uri              :
