@@ -20,11 +20,11 @@ title                    : "外接大脑"
 title_separator          : "-"
 name                     : "道三"
 description              : "道三的个人博客，分享认知学习的过程"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               :  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://yan100.top" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "yeanchi/yeanchi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true #false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
