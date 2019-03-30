@@ -238,9 +238,9 @@ tag_archive:
 #tools_archive:
  # type: liquid
 #  path: /tools/tool/
-#self_teaching_archive:
-#  type: liquid
-#  path: /self-teaching/
+self_teaching_archive:
+  type: liquid
+  path: /self-teaching/
 #meme_archive:
 #  type: liquid
 #  path: /meme/
