@@ -4,6 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://XX/minimal-mistakes/about/
+   - title: "自学任意门"
+     url: /self-teaching
+   - title: "模因盒"
+     url: /meme/
    - title: "工具流"
      url: /tools/
    - title: "分类"

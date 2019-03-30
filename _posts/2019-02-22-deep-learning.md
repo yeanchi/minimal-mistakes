@@ -1,9 +1,9 @@
 ---
 title: "如何0基础入门深度学习？"
 categories:
-- study
+- self-teaching
 tags:
-- deep learning
+- Deep Learning
 ---
 
 > 「深度学习」是人工智能分支「机器学习」的一个算法,想了解人工智能，可以先从学习「深度学习」开始，以小窥大。
