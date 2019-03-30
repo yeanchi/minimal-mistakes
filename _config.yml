@@ -130,8 +130,10 @@ author:
   weibo            : #""
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-
+  sidebar:
+  - title: " 微信 WeChat "
+    text: " wuyegod "
+ 
 # Reading Files
 include:
   - .htaccess
@@ -275,5 +277,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: grid
+      layout: single
       author_profile: true
