@@ -1,7 +1,7 @@
 ---
 title: "如何0基础入门深度学习？"
 categories:
-- selfteaching
+- self-teaching
 tags:
 - Deep Learning
 ---
