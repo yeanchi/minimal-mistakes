@@ -235,15 +235,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-#tools_archive:
-# type: liquid
-#  path: /tools/
-#self_teaching_archive:
-#  type: liquid
-#  path: /self-teaching/
-#meme_archive:
-# type: liquid
-# path: /meme/
+tools_archive:
+ type: liquid
+  path: /tools/
+selfteaching_archive:
+  type: liquid
+  path: /selfteaching/
+meme_archive:
+ type: liquid
+ path: /meme/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
