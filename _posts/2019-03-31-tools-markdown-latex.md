@@ -1,10 +1,11 @@
 ---
-title: "Markdown使用LaTeX编辑公式指导手册[转载]"
+title: "Markdown使用LaTeX编辑公式指导手册(转载)"
 categories:
 - tools
 tags:
 - Markdown
-toc: true
+toc: 
+true
 ---
 
 > 本文转载自 [Cmd Markdown 公式指导手册 - 作业部落](https://www.zybuluo.com/codeep/note/163962) 原文未改动，作个人查询所需。
