@@ -10,8 +10,8 @@ main:
      url: /meme/
    - title: "工具流"
      url: /tools/
-   - title: "分类"
-     url: /categories/
+   #- title: "分类"
+    # url: /categories/
    - title: "标签"
      url: /tags/
 

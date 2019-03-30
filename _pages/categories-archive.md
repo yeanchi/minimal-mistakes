@@ -1,7 +1,7 @@
 ---
 title: "文章分类"
-permalink: /categories-archive/
-layout: category
+permalink: /categories/
+layout: tags
 author_profile: true
 ---
 
