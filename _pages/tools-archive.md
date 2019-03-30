@@ -1,7 +1,7 @@
 ---
 title: "工具流"
 permalink: /tools/
-layout: posts
+layout: categories
 author_profile: true
 ---
 
