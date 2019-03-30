@@ -130,9 +130,6 @@ author:
   weibo            : #""
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  sidebar:
-  - title: " 微信 WeChat "
-    text: " wuyegod "
  
 # Reading Files
 include:
