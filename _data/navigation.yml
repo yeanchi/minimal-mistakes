@@ -5,7 +5,7 @@ main:
   # - title: "About"
   #   url: https://XX/minimal-mistakes/about/
    - title: "自学任意门"
-     url: /self-teaching/
+     url: /selfteaching/
    - title: "模因盒"
      url: /meme/
    - title: "工具流"
