@@ -237,7 +237,13 @@ tag_archive:
   path: /tags/
 tools_archive:
   type: liquid
-  path: /tools/
+  path: /tools/tool
+self_teaching_archive:
+  type: liquid
+  path: /self-teaching
+meme_archive:
+  type: liquid
+  path: /meme
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
