@@ -1,6 +1,8 @@
 ---
-title: "工具流"
-permalink: /tools/
+title: "模因箱"
+permalink: /meme/
 layout: tags
 author_profile: true
 ---
+
+
