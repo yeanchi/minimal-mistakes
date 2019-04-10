@@ -52,8 +52,9 @@ Chrono 除了方便管理 Chrome 下载的文件，它还是一个资源探嗅�
 
 配合印象笔记对自己想要保存的网页、PDF、段落都可以及时存储到自己的印象笔记。
 
-
 [4. 扩展管理器（Extension Manager） - Chrome 网上应用店](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)
+
+![2019-04-10 10.28.48](https://cdn.yan100.top/2019-04-10-2019-04-10 10.28.48.png)
 
 前期刚接触的 Chrome 插件时候会处于好奇，下载太多的插件，界面很乱，特别是一些些冷门插件，一年用不了两次，又舍不得删掉。
 
@@ -73,6 +74,8 @@ Markdown 写作的时候，想分享某个网页，需要打出标题再复制�
 
 [8. Stylish-为任意网站自定义主题 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?utm_source=chrome-ntp-icon)
 
+![2019-04-10 10.41.41](https://cdn.yan100.top/2019-04-10-2019-04-10 10.41.41.png)
+
 很多网站字太小，排版太丑，使用 Stylish 可以为网站自定义样式，插件本身也自带例如夜晚模式之类的自定义主题。
 
 [9. 在线词典助手 - Chrome 网上应用店](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb)
@@ -85,7 +88,13 @@ Markdown 写作的时候，想分享某个网页，需要打出标题再复制�
 
 如果你十分在意网上的隐私保护，安装DuckDuckGo，拿回自己的隐私权，不用担心自己在网上操作的一举一动。
 
-如果你注册了谷歌账号，很多插件需要账号登录，这时候就可以用谷歌一键登录不需要折腾了。
+[11. Markdown Here - Chrome 网上应用店](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?utm_source=chrome-ntp-icon)
+
+![2019-04-10 10.09.10](https://cdn.yan100.top/2019-04-10-2019-04-10 10.09.10.png)
+
+Markdown Here 主要用在把你的 Markdown 文档渲染成自定义样式的富文本，在某些不支持 Markdown 格式的应用下，你也可以一键转为对应样式，比如发送邮件，公众号图文排版等等。
+
+暂时就推荐以上几款了，如果你注册了谷歌账号，很多插件需要账号登录，这时候就可以用谷歌一键授权登录。
 
 ## 用上 Google 文档
 
@@ -121,7 +130,9 @@ Colab 对于很多刚刚入门初学 Python，甚者入门学习机器学习、�
 3. 不只是输入一行行代码，你还可以在上面用 Markdown 来输入文字和图片。你可以自己做笔记，其实它本质是 Jupyter 笔记本，所以有很多教程直接用这玩意来写。
 4. 可以把笔记本分享给别人一起协作，甚至在出现BUG等无法解决的问题，可以分享你的代码到网上请求大神解决问题。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inN8seMm7UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+以下是视频介绍，播放地址在 youtube ，如果没有科学上网可能无法加载：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inN8seMm7UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
 
 这样良心的产品，我想除了 Google 也找不出第二家，当然，它依然可以将笔记本自动存储到你的 Google 云端硬盘。[点击这里了解如何使用Colab](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=GJBs_flRovLc)。
 
@@ -143,7 +154,7 @@ Colab 对于很多刚刚入门初学 Python，甚者入门学习机器学习、�
 
 ## 结尾
 
-我还是提议不要为了效率而效率，要因人而异。真正遇到重复的劳作会让工作和学习感到十分枯燥，这时候就需要看看是否能在这过程中减少重复的步骤。
+我依然提议不要为了效率而效率，要因人而异。真正遇到重复的劳作会让工作和学习感到十分枯燥，这时候就需要看看是否能在这过程中减少重复的步骤。
 
 用优秀的产品，除了让生活高效以外，更有一种“美”感，使用一款好产品，也一种是对“美”的追求。
 
