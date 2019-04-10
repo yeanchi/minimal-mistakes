@@ -132,7 +132,7 @@ Colab 对于很多刚刚入门初学 Python，甚者入门学习机器学习、�
 
 以下是视频介绍，播放地址在 youtube ，如果没有科学上网可能无法加载：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inN8seMm7UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inN8seMm7UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 这样良心的产品，我想除了 Google 也找不出第二家，当然，它依然可以将笔记本自动存储到你的 Google 云端硬盘。[点击这里了解如何使用Colab](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=GJBs_flRovLc)。
 
