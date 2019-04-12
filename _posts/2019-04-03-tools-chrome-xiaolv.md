@@ -112,6 +112,8 @@ Google 文档核心还是写作文档，它支持小团队的文档写作，比�
 
 当然也支持一起填写表格，制作幻灯片。更有趣的是，Google文档的 PPT 可视化数据图表可以直接使用 Google文档表格的数据，更改 Google 文档表格的数据，PPT 的数据也自动更新。
 
+如果你说在国内这样类似的软件很多。如果有用过石墨或者WPS协作文档都应该知道他们自身缺点非常明显，比如：文件过会卡顿、协作的时候各种BUG，针对以上情况，相对来说 Google 文档就会好很多。
+
 谷歌文档保存的文档默认到 Google 云端网盘。别担心，当你注册了谷歌账号，也就默认给你注册好了谷歌云端网盘。
 
 
@@ -129,10 +131,6 @@ Colab 对于很多刚刚入门初学 Python，甚者入门学习机器学习、�
 2. 它不需要安装 Python ，甚至很多常用的包不用安装，很多人入门直接到放弃就因为前期的安装过程。
 3. 不只是输入一行行代码，你还可以在上面用 Markdown 来输入文字和图片。你可以自己做笔记，其实它本质是 Jupyter 笔记本，所以有很多教程直接用这玩意来写。
 4. 可以把笔记本分享给别人一起协作，甚至在出现BUG等无法解决的问题，可以分享你的代码到网上请求大神解决问题。
-
-以下是视频介绍，播放地址在 youtube ，如果没有科学上网可能无法加载：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inN8seMm7UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 这样良心的产品，我想除了 Google 也找不出第二家，当然，它依然可以将笔记本自动存储到你的 Google 云端硬盘。[点击这里了解如何使用Colab](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=GJBs_flRovLc)。
 
